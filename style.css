@@ -1,0 +1,18 @@
+div {
+	background-color: #C71585;
+	font-size: 30px;
+}
+
+.choose_mode {
+	background-color: #DEB887;
+	border: 1px #4682B4;
+}
+
+body {
+	background-color: #FFE4C4;
+}
+
+#instruments, #light, #fon, #prosmotr{
+	margin-bottom: 12px;
+	margin-left: 4px;
+}
